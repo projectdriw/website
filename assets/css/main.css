@@ -1195,6 +1195,7 @@ section,
   transition: all ease-in-out 0.4s;
   background-color: var(--contrast-color);
   height: 100%;
+  width: 100%;
 }
 
 .services .service-item .icon {
